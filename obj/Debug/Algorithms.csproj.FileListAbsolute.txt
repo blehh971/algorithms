@@ -1,0 +1,18 @@
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\obj\Debug\Algorithms.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\Daniel\Desktop\Final Versions\YhStOrderUpdater\Algorithms\Algorithms\obj\Debug\Algorithms.frmMain.resources
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.frmMain.resources
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.Properties.Resources.resources
+C:\Users\kirkn\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.GenerateResource.Cache
